@@ -1,0 +1,14 @@
+# Тимчасові файли, які створює сама програма під час роботи
+*.b64
+TechHub_KeyFix.ps1
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Редактори
+.vs/
+.vscode/
+*.swp
+*~
